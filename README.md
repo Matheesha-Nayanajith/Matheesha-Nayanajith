@@ -35,6 +35,6 @@
 <!-- ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) -->
 
 ![Matheesha's github stats](https://github-readme-stats.vercel.app/api?username=Matheesha-Nayanajith&layout=compact&langs_count=8&theme=light)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheesha-Nayanajith&layout=compact&langs_count=8&theme=light)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheesha-Nayanajith&layout=compact&langs_count=8&theme=light)-->
 
 <br />
