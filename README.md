@@ -1,5 +1,4 @@
 ### Hi there :wave: I am Matheesha Nayanajith
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Matheesha-Nayanajith&color=brightgreen" alt="Matheesha-Nayanajith" /> </p>
 
 <!--
