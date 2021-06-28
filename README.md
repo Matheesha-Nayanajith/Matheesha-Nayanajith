@@ -12,7 +12,6 @@
 
 <!-- -->
 ### Languages and Tools:
-<img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -33,6 +32,7 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)  -->
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  -->
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) -->
+<img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
 
 
 ![Matheesha's github stats](https://github-readme-stats.vercel.app/api?username=Matheesha-Nayanajith&layout=compact&langs_count=8&theme=light)
